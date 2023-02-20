@@ -1,0 +1,43 @@
+.Contact {
+    background: rgba(255, 255, 255, 0.04);
+    border-radius: 16px;
+    box-shadow: 0 4px 30px rgba(0, 0, 0, 0.1);
+    backdrop-filter: blur(6.3px);
+    -webkit-backdrop-filter: blur(6.3px);
+    border: 1px solid rgba(255, 255, 255, 0.18);
+    height: 50vh;
+    width: 80%;
+    margin: auto;
+}
+
+h2 {
+    text-align: center;
+    text-transform: uppercase;
+    font-size: 5rem;
+    margin-bottom: 1rem;
+}
+
+.bar {
+    background-color: #fff;
+    height: 0.2rem;
+    width: 50%;
+    margin: auto;
+}
+
+p {
+    font-size: 2rem;
+}
+
+.data {
+    display: flex;
+    flex-direction: column;
+    justify-content: center;
+    align-items: center;
+    padding: 0.5rem;
+
+}
+
+.items {
+    padding: 0.5rem;
+    margin-bottom: 0.2rem;
+}
