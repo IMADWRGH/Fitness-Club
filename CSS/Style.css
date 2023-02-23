@@ -17,6 +17,7 @@
 }
 
 #opened {
+    text-transform: uppercase;
     color: coral;
 }
 
